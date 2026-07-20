@@ -1,0 +1,28 @@
+h1{
+background-color: black;
+border:2px solid white;
+color: aliceblue;
+justify-content: center;
+display: flex;
+margin-top: 0px;
+}
+body{
+background-color: aqua;
+font-size: 35px;
+}
+#innerBox  
+    justify-content: center;
+    display: flex;
+    background-color: blue;
+    height: 300px;
+    margin-top: 0px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    width: 1000px;
+}
+#outerbox{
+  display: flex;
+  justify-content: center;  
+}
+
+
